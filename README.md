@@ -1,7 +1,5 @@
 # creditService_vue
-> 三方借贷（vue实现）
-
-> A Vue.js project
+> 三方借贷（vue）
 
 ## Build Setup
 
